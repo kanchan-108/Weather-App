@@ -8,4 +8,5 @@ This is a simple weather app that allows users to check the weather for a specif
 
 *3) Weather Icons:* Different weather icons are displayed based on the current weather conditions, such as rain, clear sky, clouds, drizzle, and mist.
 
-Link : https://shikhar-0.github.io/Weather-App/
+Link : https://kanchan-108.github.io/Weather-App
+
